@@ -2,7 +2,7 @@
 
 //GANESH PANDEY
 
-This is the final project of the CSCI 313 related with the javascript. Also, this is the first time I have implemented javascript.
+This is the project related with the javascript. Also, this is the first time I have implemented javascript.
 
 In my project entitled"CS 313 Grid Game", the major target of player is to accomplish the all 3 levels. Upon running the project, first level appears. So, the rule to get to next level are:
 
